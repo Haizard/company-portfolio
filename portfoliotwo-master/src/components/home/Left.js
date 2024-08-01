@@ -65,7 +65,6 @@ const Left = () => {
             rel="noreferrer"
           >
             <button className="w-full h-full flex justify-center items-center gap-2">
-              Download CV <BsCloudLightningFill />
             </button>
           </a>
           <button className="w-1/2 border-t-[1px] border-t-zinc-800 text-sm tracking-wide uppercase flex justify-center items-center gap-2 hover:text-designColor duration-300">
