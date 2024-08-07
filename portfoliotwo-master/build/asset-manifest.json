@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ce160d0.css",
-    "main.js": "/static/js/main.75cfaa47.js",
-    "static/media/Noor_Mohammad_resume.pdf": "/static/media/Noor_Mohammad_resume.9b31b3dcf2d5307bd8f0.pdf",
+    "main.css": "/static/css/main.16e8ac18.css",
+    "main.js": "/static/js/main.cb635170.js",
+    "static/media/first-tech-solution.png": "/static/media/first-tech-solution.1ac6bc750b2ac4733281.png",
+    "static/media/makoro-safari-pineaple-builders.png": "/static/media/makoro-safari-pineaple-builders.accaec99810f0dd131e8.png",
     "static/media/workImgEight.jpg": "/static/media/workImgEight.863efcb32ba563410bd6.jpg",
     "static/media/workImgSeven.jpg": "/static/media/workImgSeven.b607849747fc53f9a1c1.jpg",
-    "static/media/workImgThree.jpg": "/static/media/workImgThree.f617087bdf72ace764ea.jpg",
-    "static/media/workImgFive.jpg": "/static/media/workImgFive.7e88cef06bfeb0835605.jpg",
-    "static/media/workImgTwo.jpg": "/static/media/workImgTwo.7433873bf3c337c65ffc.jpg",
+    "static/media/misapeblog.png": "/static/media/misapeblog.a2d12da18ec0b20a18da.png",
+    "static/media/singidatraingcenter.png": "/static/media/singidatraingcenter.69af95ba5c5eb428c067.png",
     "static/media/workImgSix.jpg": "/static/media/workImgSix.d899a4337fada00f42a3.jpg",
-    "static/media/eagle.jpg": "/static/media/eagle.538f7c88dcee07717b26.jpg",
+    "static/media/Haitham_Misape_CV resume.pdf": "/static/media/Haitham_Misape_CV resume.bf7a49f9f80697d0acd9.pdf",
     "static/media/workImgFour.jpg": "/static/media/workImgFour.10ddd9b44b0d0802f131.jpg",
     "static/media/blogImgOne.jpg": "/static/media/blogImgOne.a49c0711b3657270c30d.jpg",
     "static/media/blogImgThree.jpg": "/static/media/blogImgThree.020cf6588ec70e316c6a.jpg",
     "static/media/blogImgTwo.jpg": "/static/media/blogImgTwo.6aed37cec2695c32850c.jpg",
-    "static/media/workImgOne.jpg": "/static/media/workImgOne.294921da5954189699c7.jpg",
+    "static/media/eagle.jpg": "/static/media/eagle.2b48a8fe5995006ab62b.jpg",
     "index.html": "/index.html",
-    "main.3ce160d0.css.map": "/static/css/main.3ce160d0.css.map",
-    "main.75cfaa47.js.map": "/static/js/main.75cfaa47.js.map"
+    "main.16e8ac18.css.map": "/static/css/main.16e8ac18.css.map",
+    "main.cb635170.js.map": "/static/js/main.cb635170.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ce160d0.css",
-    "static/js/main.75cfaa47.js"
+    "static/css/main.16e8ac18.css",
+    "static/js/main.cb635170.js"
   ]
 }
