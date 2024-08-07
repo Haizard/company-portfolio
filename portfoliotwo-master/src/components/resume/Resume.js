@@ -6,9 +6,9 @@ import Skills from "./Skills";
 const Resume = () => {
   return (
     <section id="resume">
-      <Title title="Our" subTitle="Resume" />
+      <Title title="My" subTitle="Resume" />
       <Education />
-      <Title title="Our" subTitle="Skills" />
+      <Title title="My" subTitle="Skills" />
       <Skills />
     </section>
   );

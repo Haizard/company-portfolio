@@ -19,23 +19,23 @@ const Projects = () => {
       <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-6 lgl:gap-10">
         <div className="px-6">
           <ProjectsCard
-            title="Blog Website"
+            title="singidatrainingcenter.com"
             category="Website"
             image={workImgThree}
           />
           <ProjectsCard
-            title="Business Card Design"
-            category="Design"
+            title="https://makoro-safari-pineaple-builders.netlify.app"
+            category="website"
             image={workImgOne}
           />
           <ProjectsCard
-            title="Infinity Logo"
-            category="Logo"
+            title="https://misapeblogger.netlify.app"
+            category="website"
             image={workImgTwo}
           />
           <ProjectsCard
-            title="Mobile Application"
-            category="Shopping"
+            title="https://first-tech-solution.netlify.app/"
+            category="Website"
             image={workImgFive}
           />
         </div>

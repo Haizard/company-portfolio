@@ -44,14 +44,7 @@ const Skills = () => {
               <span className="w-[85%] h-full absolute top-0 left-0 bg-designColor"></span>
             </span>
           </div>
-          <div className="py-3 border-b-[1px] border-zinc-800">
-            <p className="text-base text-textColor -mb-1.5">
-             Hardware Maintainance
-            </p>
-            <span className="w-full bg-zinc-600 h-1 inline-flex relative">
-              <span className="w-[85%] h-full absolute top-0 left-0 bg-designColor"></span>
-            </span>
-          </div>
+       
           {/* UI Design */}
           <div className="py-3 border-b-[1px] border-zinc-800">
             <p className="text-base text-textColor -mb-1.5">UI Design</p>
@@ -165,12 +158,7 @@ const Skills = () => {
             </span>
             Advertising services include
           </li>
-          <li className="flex items-center gap-4 text-textColor">
-            <span className="text-designColor text-lg">
-              <GiCheckMark />
-            </span>
-            Graphics and animations
-          </li>
+         
           <li className="flex items-center gap-4 text-textColor">
             <span className="text-designColor text-lg">
               <GiCheckMark />
