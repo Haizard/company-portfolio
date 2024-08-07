@@ -1,8 +1,8 @@
 import React from "react";
-import { BsTrophyFill } from "react-icons/bs";
+
 import { SiAntdesign } from "react-icons/si";
 import { BiCodeAlt } from "react-icons/bi";
-import { IoLogoYoutube } from "react-icons/io";
+
 import FunFactCard from "./FunFactCard";
 
 const FunFact = () => {
