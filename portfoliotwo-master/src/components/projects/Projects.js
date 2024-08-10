@@ -41,7 +41,7 @@ const Projects = () => {
         </div>
         <div className="px-6">
           <ProjectsCard
-            title="Responsive website"
+            title="https://ecommerce-derivering-3.onrender.com/"
             category="E-commerce"
             image={workImgFour}
           />
